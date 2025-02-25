@@ -1,0 +1,21 @@
+.hero-full-wrapper {
+    width: 100%;
+}
+
+.grid {
+    width: 100%;
+    margin-left: -10px; /* gutter size offset */
+}
+
+.grid-item {
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding-left: 10px; /* gutter size */
+    width: 33.33%; /* ancho de columna */
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+    display: block;
+}
